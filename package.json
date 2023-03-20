@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "portifolio-pw2",
+  "version": "1.0.0",
+  "description": "Um portifolio voltado para uma foda",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Portifolio",
+    "teatro",
+    "artes",
+    "cenicas",
+    "artistico",
+    "artista",
+    "ator",
+    "fotografia",
+    "imagem",
+    "experiencia",
+    "trabalhos",
+    "atuação",
+    "sonoplastia",
+    "luzes",
+    "iluminação",
+    "interpretação",
+    "autor",
+    "etec",
+    "barueri",
+    "Ds",
+    "Desenvolvedor",
+    "de",
+    "sistemas",
+    "PW2",
+    "Alex",
+    "Roberto",
+    "Barueri-SP"
+  ],
+  "author": "Alex Roberto Tavares",
+  "license": "ISC"
+}
