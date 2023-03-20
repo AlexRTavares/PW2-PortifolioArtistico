@@ -1,13 +1,14 @@
 {
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
   },
   "name": "portifolio-pw2",
   "version": "1.0.0",
   "description": "Um portifolio voltado para uma foda",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
+    "start": "nodemon ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
