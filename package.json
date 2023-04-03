@@ -5,7 +5,7 @@
   },
   "name": "portifolio-pw2",
   "version": "1.0.0",
-  "description": "Um portifolio voltado para uma foda",
+  "description": "Um portfólio de teatro é uma coleção organizada de trabalhos e experiências relacionados ao mundo das artes cênicas.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js",
